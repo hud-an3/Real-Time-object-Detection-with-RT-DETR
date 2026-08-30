@@ -76,7 +76,11 @@ The notebook demonstrates:
 * Detection on videos
 * Benchmark comparison between RT-DETR and YOLOv8
 * Performance visualization graphs
-<img width="2272" height="1278" alt="image" src="https://github.com/user-attachments/assets/94d7ca67-0c70-4a4a-b5a5-2be6930bd64d" />
+
+
+https://github.com/user-attachments/assets/98c8e032-3ed3-48b7-bdc7-fb4551beab39
+
+
 <img width="2617" height="1468" alt="image" src="https://github.com/user-attachments/assets/b7b88331-e263-44c4-b28c-5b8065ae7bd3" />
 
 
